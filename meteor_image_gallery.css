@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+.thumbnail {
+	width: 100%;
+	height: auto;
+}
+
+body { 
+	//background: grey !important; 
+	padding-top: 70px;
+}
